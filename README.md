@@ -1,0 +1,3 @@
+# Wise
+
+Wise quotes.
