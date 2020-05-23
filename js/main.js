@@ -74,7 +74,7 @@ function generateImage() {
   ctx.fillRect(0, 0, canvas.width, canvas.height);
 
   // let text = '“Life is what happens to you.”';
-  let text = '“' + markov.generateRandom(700) + '”';
+  let text = '“' + markov.generateRandom(100) + '”';
   text += ' <br> —' + authors[Math.floor(Math.random() * authors.length)];
 
   let textColor = '#fff';
