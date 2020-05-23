@@ -16261,6 +16261,9 @@ var quotes1 = [{
 }, {
 "quoteText": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
 "quoteAuthor": "Tom Jackson"
+}, {
+"quoteText": "Life is what happens to you.",
+"quoteAuthor": "Anonymous",
 }];
 
 var quotes2 = [  
