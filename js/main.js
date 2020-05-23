@@ -36,7 +36,7 @@ for (let i = 0; i < quotes.length; ++i) {
   let author = quotes[i].quoteAuthor;
   authors.push(author ? author : 'Anonymous');
 }
-markov.train(50);
+markov.train(10);
 
 let imageSources = [
   'images/nathan-anderson-kTaIjvHsyJg-unsplash.jpg',
