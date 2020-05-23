@@ -1,3 +1,5 @@
 # Wise
 
-Wise quotes.
+Wise quotes using Markov chains.
+
+![](wise.png)
